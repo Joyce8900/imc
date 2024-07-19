@@ -1,0 +1,60 @@
+div{
+  background: white;
+  border-radius: 2vh;
+  padding: .4vh;
+  width: 50vh;
+  margin: auto;
+  box-shadow: .5vh .5vh 1vh rgba(0, 0, 0, 0.432);
+  align-items: center;
+  text-align: center;
+}
+h4{
+  font-size: 3vh;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font: bold 5vh Roboto;
+}
+body{
+  background-color: #8643c581;
+}
+p{
+  margin: 1vh;
+}
+
+button{
+  background-color: transparent;
+  justify-items: center;
+  box-shadow: none;
+  align-items: center;
+  justify-content: center;
+  margin: 1.3vh;
+  text-decoration: powderblue;
+  border-radius: 1vh;
+  cursor: pointer;
+  text-align: center;
+  height: 5vh;
+  border: 1px .1vh gray;
+
+}
+button:hover{
+  background-color: #8643c581;
+}
+
+input{
+  text-decoration: none;
+  width: 20vh;
+  border: 1px solid black;
+  align-items: center;
+  height: 4vh;
+  border-radius: 2vh;
+}
+
+#res{
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  text-align: center;
+  
+}
